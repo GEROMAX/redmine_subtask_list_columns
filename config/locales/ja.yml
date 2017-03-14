@@ -1,0 +1,5 @@
+# Japanese strings go here for Rails i18n
+ja:
+  subtask_list_columns: "Subtask list columns"
+  available_columns: "使用可能な列"
+  selected_columns: "表示する列"
